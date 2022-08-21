@@ -11,5 +11,6 @@ public class Demo {
         System.out.println("hot-fix提交到本地库");
         System.out.println("master 第四次提交到本地库！");
         System.out.println("hot-fix 第四次提交本地库！");
+        System.out.println("提交到远程库中！");
     }
 }
